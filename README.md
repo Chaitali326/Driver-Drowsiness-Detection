@@ -174,9 +174,9 @@ This project is developed for educational and research purposes.
 
 ## 👩‍💻 Author
 
-**Aditya Modi**
-**Ankit Lanjewar**
-**Chaitali Nadekar**
+**Aditya Modi,**
+**Ankit Lanjewar,**
+**Chaitali Nadekar,**
 **Dhaneswari Bhatia**
 
 GitHub:  
