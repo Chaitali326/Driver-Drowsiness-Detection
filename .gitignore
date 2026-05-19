@@ -1,0 +1,6 @@
+mediapipe_env
+mp_env
+test_env
+.vscode
+__pycache__
+*.pyc
