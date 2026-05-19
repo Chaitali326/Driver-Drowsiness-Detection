@@ -42,7 +42,7 @@ def mouth_aspect_ratio(mouth):
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(refine_landmarks=True)
 
-# Webcam
+# Webcam 
 cap = cv2.VideoCapture(0)
 
 # Thresholds
